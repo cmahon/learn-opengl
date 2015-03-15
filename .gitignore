@@ -1,0 +1,10 @@
+*
+!*/
+!Makefile
+!*.cpp
+!*.frag
+!*.gitignore
+!*.h
+!*.jpg
+!*.png
+!*.vs
